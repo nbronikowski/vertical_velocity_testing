@@ -1,3 +1,4 @@
+*.git
 *.nc
 *.ad2cp
 *.zip
@@ -5,4 +6,4 @@
 *.ebd
 *.dcd
 *.ecd
-
+*.DS_store
